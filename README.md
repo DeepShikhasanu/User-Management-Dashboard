@@ -25,5 +25,5 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   
+    https://github.com/DeepShikhasanu/User-Management-Dashboard.git
 
