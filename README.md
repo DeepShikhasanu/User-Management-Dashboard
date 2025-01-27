@@ -27,3 +27,11 @@ To get started with the project, follow these steps:
    ```bash
     https://github.com/DeepShikhasanu/User-Management-Dashboard.git
 
+   Start the development server:
+
+bash
+Copy
+Edit
+npm start
+This will start the application in development mode. You can open it in your browser at http://localhost:3004
+
